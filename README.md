@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family:'Roboto',sans-serif;font-size:60px;color:#ffd700;text-shadow:0 0 20px #ffd700,0 0 40px #ffff80,0 0 60px #ffd700;animation:bounce 1.5s infinite ease-in-out">@keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-30px)}}👋 Hello World, I'm Amrutha Varshini</h1>
+<h1 align="center">👋 Hello World, I'm Amrutha Varshini</h1>
 <h3 align="center">🎓 Cybersecurity Engineering Student | Python Developer Intern (SOC Analyst) 🌱 Exploring technology through impactful, real-world projects 💡 Dedicated to continuous learning, building, and sharing knowledge 🚀 Focused on contributing, collaborating, and growing within the tech community</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthagari2104&label=Profile%20views&color=0e75b6&style=flat" alt="amruthagari2104" /> </p>
