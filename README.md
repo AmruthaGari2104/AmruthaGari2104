@@ -1,4 +1,5 @@
 <h1 color:7209B7><b>👋 Hello World, I'm Amrutha Varshini</b></h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthagari2104&label=Profile%20views&color=0e75b6&style=flat" alt="amruthagari2104" /> </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=f79ac0&center=true&vCenter=true&width=800&lines=🎓+Cybersecurity+Engineering+Student;Python+Developer+Intern;Cyber+security+intern(SOC+Analyst);🛠️+Buliding+real-world+projects;🧠+Always+Learning,+Always+Building" />
