@@ -3,16 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthagari2104&label=Profile%20views&color=0e75b6&style=flat" alt="amruthagari2104" /> </p>
 
-- **🚀 Foundation of My Career**
+- **Foundation of My Career**
 - I’m a Cybersecurity Engineering student at Raghu Engineering College, passionate about building my career in top technology domains. 💼 I have successfully completed my Python Developer Internship at Infosys Springboard. Currently, I am working as a Cybersecurity Intern (SOC Analyst) at Writxe, where I am gaining hands-on experience in security operations and applying my skills to real-world projects
 
-- **⚡ Hands-On Hustle **
+- **Hands-On Hustle**
 - Python Developer Intern @ Infosys Springboard — gained real-world experience while sharpening my engineering mindset and applying Python to practical projects. Cybersecurity Intern (SOC Analyst) @ Writxe — currently gaining hands-on experience in security operations, threat analysis, and incident response, while strengthening my skills in cybersecurity and data protection.
 
-- **🌱 Fueling My Growth **
+- **Fueling My Growth**
 - Diving into Python, Cybersecurity, and AI/ML, and transforming ideas into practical solutions that simplify and enrich everyday life. I enjoy collaborating on innovative projects and applying my skills to create secure, scalable, and impactful technologies that empowers people.
 
--** 🌌 Expanding Horizons **
+-**Expanding Horizons**
 Hands-on learning, practical projects, internships, and a curiosity that keeps me evolving — leveraging my skills to design technologies that solve problems and empower people.
 
  **🧠Learning by Doing: SOC & Cybersecurity**
@@ -26,15 +26,15 @@ Hands-on learning, practical projects, internships, and a curiosity that keeps m
 🗄️ Databases: MySQL  
 ☁️ Cloud & Networking: AWS | Computer Networks
 
-- **✨ Milestones Achieved **
+- **Milestones Achieved**
 - AWS Academy Graduate – Cloud Architecting → Completed a 60-hour program covering cloud infrastructure, AWS services, and architectural best practices. - Responsive Web Design Certification – freeCodeCamp → 300+ hours of hands-on learning in HTML, CSS, Flexbox, Grid, and responsive design principles. - Gesture-Based System Volume Control → Designed and implemented successfully using MediaPipe, OpenCV, PyCAW, Python, and NumPy. - Python Developer Internship @ Infosys Springboard → Gained real-world experience applying Python to practical projects. - Cybersecurity Internship (SOC Analyst) @ Writxe → Hands-on experience in security operations, threat analysis, and incident response
 
--** 🚀 Technology Behind the Project **
+-**Technology Behind the Project**
 MediaPipe | OpenCV | PyCAW | Python | NumPy → Built a gesture-based system with real-time recognition, seamless UI feedback, and enhanced user interaction
 
   
 
-**📜 Certificates **
+**📜Certificates**
 
 <img width="735" height="521" alt="image" src="https://github.com/user-attachments/assets/2a958f7f-6218-42b2-b1d1-b8187d908afa" />
 <img width="506" height="346" alt="image" src="https://github.com/user-attachments/assets/7c2efe56-85f2-4769-ad9b-28ea6d06475b" />
@@ -42,7 +42,7 @@ MediaPipe | OpenCV | PyCAW | Python | NumPy → Built a gesture-based system wit
 
 
 
-- **🌐 Let’s Stay Connected **
+- **Let’s Stay Connected**
 - I enjoy building meaningful connections with people in tech — from students and developers to recruiters and industry experts. Let’s collaborate, learn from each other, and create something valuable together
 
 <h3 align="left">Connect with me:</h3>
