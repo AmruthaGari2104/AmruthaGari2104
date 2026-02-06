@@ -122,4 +122,8 @@ I enjoy building meaningful connections with people in tech — from students an
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amruthagari2104&show_icons=true&locale=en" alt="amruthagari2104" />
 </p>
-  
+  <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gee-46&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+
