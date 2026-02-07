@@ -78,8 +78,6 @@ MediaPipe | OpenCV | PyCAW | Python | NumPy → Built a gesture-based system wit
 I enjoy building meaningful connections with people in tech — from students and developers to recruiters and industry experts. Let’s collaborate, learn from each other, and create something valuable together
 
 </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left" style="display:flex; align-items:center; gap:30px;">
   <a href="https://www.linkedin.com/in/amrutha-varshini-461a49329" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
