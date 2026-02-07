@@ -68,9 +68,9 @@ MediaPipe | OpenCV | PyCAW | Python | NumPy → Built a gesture-based system wit
 </p>
 <h3> <b>📜Certificates:</b></h3>
 <p style="font-size: 18px">
-<img width="735" height="521" alt="image" src="https://github.com/user-attachments/assets/2a958f7f-6218-42b2-b1d1-b8187d908afa" />
+<img width="506" height="346" alt="image" src="https://github.com/user-attachments/assets/2a958f7f-6218-42b2-b1d1-b8187d908afa" />
 <img width="506" height="346" alt="image" src="https://github.com/user-attachments/assets/7c2efe56-85f2-4769-ad9b-28ea6d06475b" />
-<img width="504" height="337" alt="image" src="https://github.com/user-attachments/assets/0f26e276-503f-4673-bc14-4df1f49367ec" />
+<img width="506" height="346" alt="image" src="https://github.com/user-attachments/assets/0f26e276-503f-4673-bc14-4df1f49367ec" />
 
 </p>
 <h3> <b>🛜Let’s Stay Connected:</b></h3>
@@ -120,7 +120,7 @@ I enjoy building meaningful connections with people in tech — from students an
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amruthagari2104&show_icons=true&locale=en" alt="amruthagari2104" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmruthaGari2104&show_icons=true&locale=en" alt="amruthagari2104" />
 </p>
  
 
