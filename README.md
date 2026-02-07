@@ -67,9 +67,11 @@ MediaPipe | OpenCV | PyCAW | Python | NumPy → Built a gesture-based system wit
 
 </p>
 <h3> <b>📜Certificates:</b></h3>
-<p style="font-size: 18px">
+<p  align="center">
 <img width="506" height="346" alt="image" src="https://github.com/user-attachments/assets/2a958f7f-6218-42b2-b1d1-b8187d908afa" />
+  <br><br>
 <img width="506" height="346" alt="image" src="https://github.com/user-attachments/assets/7c2efe56-85f2-4769-ad9b-28ea6d06475b" />
+    <br><br>
 <img width="506" height="346" alt="image" src="https://github.com/user-attachments/assets/0f26e276-503f-4673-bc14-4df1f49367ec" />
 
 </p>
@@ -90,36 +92,18 @@ I enjoy building meaningful connections with people in tech — from students an
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="90" height="90"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="90" height="90"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="90" height="90"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="90" height="90"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="90" height="90"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="90" height="90"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="90" height="90"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="90" height="90"/> 
-  </a> 
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="70" height="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="70" height="70"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="70" height="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="70" height="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/anaconda.svg" alt="anaconda" width="70" height="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="70" height="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="70" height="70"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="70" height="70"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmruthaGari2104&show_icons=true&locale=en" alt="amruthagari2104" />
-</p>
- 
-
-
